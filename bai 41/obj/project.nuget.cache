@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "a77PDd1vaJs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tungl\\source\\repos\\bai 41\\bai 41\\bai 41.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tungl\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.32\\microsoft.windowsdesktop.app.ref.8.0.32.nupkg.sha512",
+    "C:\\Users\\tungl\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.32\\microsoft.netcore.app.ref.8.0.32.nupkg.sha512",
+    "C:\\Users\\tungl\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.32\\microsoft.aspnetcore.app.ref.8.0.32.nupkg.sha512",
+    "C:\\Users\\tungl\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.32\\microsoft.netcore.app.host.win-x64.8.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}
